@@ -1,5 +1,5 @@
 import { Text, View, TextInput, TouchableOpacity, FlatList, Alert } from 'react-native'
-import { useEffect, useState } from 'react';
+import {  useState } from 'react';
 import { styles } from './styles'
 import { Participant } from '../../components/Participant';
 
